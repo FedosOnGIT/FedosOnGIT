@@ -1,10 +1,12 @@
-### Hi there 👋
-
+Hi there 👋
 My name is Fedya Nadutkin, nice to meet you.
 
-I've a bachelor degree in Computer Science in [Itmo University](https://en.itmo.ru/).
+🎓 I hold a Bachelor's degree in Computer Science from ITMO University and am currently pursuing a Master's degree.
 
-This is my [CV](https://github.com/FedosOnGIT/CV/blob/master/CV.pdf)
+If you want to know more about me:
+
+- 📄 [CV in russian](https://github.com/FedosOnGIT/CV/blob/master/CV_Russian.pdf)
+- 📄 [CV in english](https://github.com/FedosOnGIT/CV/blob/master/CV_english.pdf)
 
 <div class="stats">
   <table cellpadding="0" cellspacing="0">
