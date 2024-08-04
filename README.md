@@ -15,7 +15,7 @@ If you want to know more about me:
         <img src="https://github-readme-stats.vercel.app/api?username=FedosOnGIT&show_icons=true&count_private=true&hide=stars&hide_border=true&text_color=000">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedosOnGIT&langs_count=6&hide=TeX,Roff,HTML&hide_border=true&text_color=000">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedosOnGIT&langs_count=6&hide=TeX,Roff,HTML,C++&hide_border=true&text_color=000">
       </td>
     </tr>
   </table>
