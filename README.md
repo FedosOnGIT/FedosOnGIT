@@ -3,10 +3,21 @@ My name is Fedya Nadutkin, nice to meet you.
 
 🎓 I hold a Bachelor's degree in Computer Science from ITMO University and am currently pursuing a Master's degree.
 
+💻 Preferred Languages:
+- Java
+- Kotlin
+- Golang
+
 If you want to know more about me:
 
 - 📄 [CV in russian](https://github.com/FedosOnGIT/CV/blob/master/CV_Russian.pdf)
 - 📄 [CV in english](https://github.com/FedosOnGIT/CV/blob/master/CV_english.pdf)
+
+📫 Contact Information:
+
+- *Email*: fedya123452@gmail.com
+- *GitHub*: github.com/FedosOnGIT
+- *Telegram*: @OooVelichaishiFedya
 
 <div class="stats">
   <table cellpadding="0" cellspacing="0">
