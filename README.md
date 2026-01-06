@@ -7,11 +7,12 @@ My name is Fedya Nadutkin, nice to meet you.
 - Java
 - Kotlin
 - Golang
+- Python
 
 If you want to know more about me:
 
 - 📄 [CV in russian](https://github.com/FedosOnGIT/CV/blob/master/CV_Russian.pdf)
-- 📄 [CV in english](https://github.com/FedosOnGIT/CV/blob/master/CV_english.pdf)
+- 📄 [CV in english](https://github.com/FedosOnGIT/CV/blob/master/CV.pdf)
 
 📫 Contact Information:
 
